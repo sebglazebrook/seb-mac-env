@@ -7,3 +7,7 @@ cask 'iterm2'
 cask 'spectacle'
 cask 'karabiner'
 cask 'seil'
+
+tap 'sebglazebrook/local_env'
+tap 'sebglazebrook/aliases'
+brew 'local_env'
